@@ -10,7 +10,7 @@ public class AngryProfessor
 		System.out.println("enter t...");
 		int T = sc.nextInt();
 		
-		//testcases:
+		//testcases:::::::
 		for(int i=0;i<T;i++)	
 		{
 			System.out.println("enter n..");
